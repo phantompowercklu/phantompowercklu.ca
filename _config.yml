@@ -27,7 +27,7 @@ url: "https://phantompowercklu.ca" # the base hostname & protocol for your site,
 github_username:  phantompowercklu
 
 # Build settings
-remote_theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
