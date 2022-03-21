@@ -12,6 +12,8 @@ with friends moving away, Evan revisited the idea in May of 2019 on a camping tr
 song *Something On* gave them the old theme song and name of the show. "Black out to Phantom Power" was the line that started it all. After a two-year
 hiatus from hosting due to the COVID-19 pandemic, Evan and Jeremy started hosting live shows again in March of 2022.
 
+&nbsp;
+
 ![image](https://i.imgur.com/cgUELJ8.png){: style="float: right; padding-left:16px" height="256px" width="256px"}
 ## Jeremy Nosich
 {: style="text-align:right"}
