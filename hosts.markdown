@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Hosts
+classes: wide
 ---
 ![image](https://i.imgur.com/WqEorCL.png){: style="float: left" height="512px" width="512px"}
 ## Evan Nosich
