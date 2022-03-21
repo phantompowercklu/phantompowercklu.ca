@@ -10,3 +10,5 @@ We pride ourselves in providing some of the unplucked gems of the world of class
 
 Phantom Power is hosted by [Jeremy and Evan Nosich](hosts.markdown), cousins and lifelong music enthusiasts.
 
+Archives of our old shows can be found [here](archives.markdown).
+

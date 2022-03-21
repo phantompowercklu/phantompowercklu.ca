@@ -1,0 +1,28 @@
+---
+layout: page
+title: The Archive
+---
+1. [June 8, 2019](https://open.spotify.com/playlist/6ZTtMkVNxM3xkOVTMwfArs?si=fa8e699efc58489a)
+2. [June 15, 2019](https://open.spotify.com/playlist/6AI2bWDNgl4gkEjhpYYI8m?si=f0eba95c239c4f1d)
+3. [June 22, 2019](https://open.spotify.com/playlist/31ZYPvk0Z656EznyQTdUGY?si=f2356a8edf7a4379)
+4. [June 29, 2019](https://open.spotify.com/playlist/6NfxJKti1XXcJMWgCU2CQB?si=055348d4af024807)
+5. [July 6, 2019](https://open.spotify.com/playlist/3627aOi6q7uDdgvfv16UqF?si=59572a0a60d14401)
+6. [July 13, 2019](https://open.spotify.com/playlist/6Lw8GFYiwvPSQOha3gHpgF?si=16a1d3d04d2b4cac)
+7. [July 20, 2019](https://open.spotify.com/playlist/2CfLgDIZGlWDAo1V0QRSpQ?si=5784670d4c0f46fa)
+8. [July 27, 2019](https://open.spotify.com/playlist/4gyJYnuzGgGvDaVu3GbFN7?si=1dae6fb6c95e4d47)
+9. [August 3, 2019](https://open.spotify.com/playlist/36cj9kWgOqOmgKsRG66nKW?si=6ead20439c0c4389)
+10. [August 10, 2019](https://open.spotify.com/playlist/5Al7HFBmqRPVslq0ZpERki?si=f0efdbbdff7c40dd)
+11. [August 24, 2019](https://open.spotify.com/playlist/0Ry9AQsOW35OPs97QKKA2S?si=cf888fc222f348de)
+12. [August 31, 2019](https://open.spotify.com/playlist/0RBJtHALtO9vYdYv5C7HZJ?si=414046e37de44215)
+13. [September 7, 2019](https://open.spotify.com/playlist/1uJBoyTWudrBFhmL99bEwD?si=ef31808634744d2d)
+14. [September 14, 2019](https://open.spotify.com/playlist/61hbu50o9IVMyNyf2U23Wo?si=f2e9325f83f74c81)
+15. [January 4, 2020](https://open.spotify.com/playlist/645ZtQ364O7Cxy1Fr3s8bW?si=ddf010fbdc3e4516)
+16. [February 22, 2020](https://open.spotify.com/playlist/07WQlh4wUpXkVPMJZqOH51?si=12ff3d29bad848a0)
+17. [June 20, 2020](https://open.spotify.com/playlist/5KhmtVG16mUuoQk8l1vNQg?si=a7f315a49e2e460e)
+18. [June 27, 2020](https://open.spotify.com/playlist/2u4LuaJOVZqCcAKnZnTdmj?si=643a20a6faee4ac8)
+19. [July 11, 2020](https://open.spotify.com/playlist/1j9dXt3w1kXNUzRpH8gr9h?si=5bbdbb436fcc4018)
+20. [July 25, 2020](https://open.spotify.com/playlist/1s15EXFkGfQR8nEZdKkJNS?si=44d65d031be14025)
+21. [August 15, 2020](https://open.spotify.com/playlist/2d8M23tZ8AfepNaRI9CcuU?si=a4f63621a75642d5)
+22. [August 22, 2020](https://open.spotify.com/playlist/2qHFG1avpDmKOu81ioqak9?si=026cc1614b994e5d)
+23. [September 5, 2020](https://open.spotify.com/playlist/5p9Nq33ykaQJICX9U0EOw2?si=4bb1498919ae4f3d)
+24. [March 19, 2020]()
