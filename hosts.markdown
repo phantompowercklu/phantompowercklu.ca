@@ -2,7 +2,7 @@
 layout: page
 title: The Hosts
 ---
-![image](https://i.imgur.com/WqEorCL.png){: style="float: left" height="100px" width="100px"}
+![image](https://i.imgur.com/WqEorCL.png){: style="float: left" height="512px" width="512px"}
 ## Evan Nosich
 A 22-year-old computer science student, Evan currently handles internal IT for CKLU, along with web development for both [CKLU](https://cklu.ca)
 and Phantom Power. He's been interested in music since a very young age, picking up the guitar in his early teens, and branched out to producing
