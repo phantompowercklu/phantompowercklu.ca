@@ -2,7 +2,7 @@
 layout: home
 title: Home
 ---
-![image](https://i.imgur.com/qZm7KyR.png){: style="float:left; padding-right:16px" height="256px" width="256px"}
+![image](https://i.imgur.com/edVdPlj.png){: style="float:left; padding-right:16px" height="256px" width="256px"}
 
 ## Who are we?
 Phantom Power is a community radio show hosted (almost) every Saturday at 10:00 PM EST.
