@@ -17,3 +17,11 @@ hiatus from hosting due to the COVID-19 pandemic, Evan and Jeremy started hostin
 ![image](https://i.imgur.com/cgUELJ8.png){: style="float: right; padding-left:16px" height="256px" width="256px"}
 ## Jeremy Nosich
 {: style="text-align:right"}
+A 21-year-old forensic science student, Jeremy is the cohost for Phantom Power. He's been listening to music for most of his life, starting out with the
+hit songs of the early 2000's that constantly played on the car radio to his favorite 60's and 70's songs that helps him get through his heavy university workloads.
+This sudden change in music choice came around middle school, but peaked in high school when he started to learn how to play bass guitar along with his fellow friends
+in their band "The Nickel City Hitchhikers" whose first performed songs included Creedence Clearwater Revival's 'Fortunate Son' and the Eagle's 'Take it Easy'.
+His taste in music, greatly influenced by his early days in a band, continued to center around the pop culture of the 1960's and early 1970's, with CCR being his favorite band.
+Despite the break, he spent his time further gathering more songs to share on air, whether discovered on his own time or recommended by a friend, he never forgets where he hears a track he likes,
+further emphasizing CKLU's motto "Your Station".  Jeremy knows how music can change the tune of any event, as many memorable moments in his life have been defined by it, thus giving rise to
+Phantom Power's motto "the soundtrack for your Saturday night shenanigans".
