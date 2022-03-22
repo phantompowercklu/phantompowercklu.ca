@@ -14,7 +14,7 @@ hiatus from hosting due to the COVID-19 pandemic, Evan and Jeremy started hostin
 
 &nbsp;
 
-![image](https://i.imgur.com/cgUELJ8.png){: style="float: right; padding-left:16px" height="256px" width="256px"}
+![image](https://i.imgur.com/H3Oo7MJ.png){: style="float: right; padding-left:16px" height="256px" width="256px"}
 ## Jeremy Nosich
 {: style="text-align:right"}
 A 21-year-old forensic science student, Jeremy is the cohost for Phantom Power. He's been listening to music for most of his life, starting out with the
